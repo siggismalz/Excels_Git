@@ -1,0 +1,94 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ExcelsGit
+</name>
+</assembly>
+<members>
+<member name="T:ExcelsGit.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ExcelsGit.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ExcelsGit.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ExcelsGit.RestoreDialog.LoadCommits(System.Collections.Generic.IEnumerable{LibGit2Sharp.LogEntry})">
+ <summary>
+ Lädt die Commits in die TreeView mit Metainformationen.
+ </summary>
+</member>
+<member name="T:ExcelsGit.ThisRibbonCollection">
+
+</member>
+<member name="M:ExcelsGit.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+
+</member>
+<member name="T:ExcelsGit.ThisAddIn">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.#ctor(Microsoft.Office.Tools.Excel.ApplicationFactory,System.IServiceProvider)">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.Initialize">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.FinishInitialization">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.InitializeDataBindings">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.InitializeCachedData">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.InitializeData">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.BindToData">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.StartCaching(System.String)">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.StopCaching(System.String)">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.IsCached(System.String)">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.BeginInitialization">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.EndInitialization">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.InitializeControls">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.InitializeComponents">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.NeedsFill(System.String)">
+
+</member>
+<member name="M:ExcelsGit.ThisAddIn.OnShutdown">
+
+</member>
+<member name="T:ExcelsGit.Globals">
+
+</member>
+<member name="M:ExcelsGit.Globals.#ctor">
+
+</member>
+</members>
+</doc>
