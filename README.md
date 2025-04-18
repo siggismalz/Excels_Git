@@ -32,3 +32,11 @@ Alte Versionen können einfach wiederhergestellt werden:
 ---
 
 # Installation
+
+Über doppelklick 
+
+```
+git clone https://github.com/siggismalz/Excels_Git.git
+```
+
+Und dann über doppelklick auf die .vsto datei installieren
