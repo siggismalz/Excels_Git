@@ -31,9 +31,7 @@ Alte Versionen können einfach wiederhergestellt werden:
 
 ---
 
-# Installation
-
-Über doppelklick 
+# Installation 
 
 ```
 git clone https://github.com/siggismalz/Excels_Git.git
